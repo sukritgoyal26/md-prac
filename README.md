@@ -1,4 +1,4 @@
-# Improving Frontend Development with Storybook
+# **Improving Frontend Development with Storybook**
 By [Divyanshu Garg](https://medium.com/@divyanshugarg36)
 \
 \
