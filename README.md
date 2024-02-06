@@ -1,6 +1,6 @@
 # Improving Frontend Development with Storybook
 By [Divyanshu Garg](https://medium.com/@divyanshugarg36)
-
+\
 ![Storybook](https://miro.medium.com/v2/resize:fit:828/format:webp/1*NP0sTtoAxuijP1e8wIitbw.png)
 <p align="center">Storybook<p>
 
