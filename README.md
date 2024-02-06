@@ -45,11 +45,16 @@ To know the why, we need to understand the problems first. Working on a large fr
 ![Storybook setup](https://miro.medium.com/v2/resize:fit:839/1*UWxEEV5uEB3fr4yZXZuicg.png)
 <p align="center">Storybook setup</p>
 
+
 3. That is it, it will automatically setup the project and run the server.
+
+
 ![Storybook (Fisrt initialization)](https://miro.medium.com/v2/resize:fit:839/1*kk7gntNQyzTXMRwy3GoWDA.png)
 <p align="center">Storybook (Fisrt initialization)</p>
 
+
 4. You will find several examples to get the project started.
+
 
 ## Conclusion
 
